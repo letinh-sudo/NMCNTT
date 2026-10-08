@@ -17,8 +17,8 @@ Mình là sinh viên năm nhất ngành **Công nghệ thông tin**, lớp **DH2
 > Hiểu rõ nền tảng về **Nhập môn Công nghệ thông tin**, biết sử dụng Git/GitHub và trở thành lập trình viên giỏi trong tương lai.
 
 ## Liên hệ
-- GitHub: [github.com/ten-cua-ban](https://github.com/ten-cua-ban)
-- Facebook: [Nguyễn Văn A](https://facebook.com/)
+- GitHub: [github.com/ten-cua-ban](https://github.com/letinh-sudo)
+- Facebook: [[Nguyễn Văn A](https://facebook.com/)](https://www.facebook.com/yc.khangnhat.618712/)
 
 ---
-*Cảm ơn bạn đã ghé thăm repository của mình!* 😊
+*Cảm ơn bạn đã ghé thăm repository của mình!*
